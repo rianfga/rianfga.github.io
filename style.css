@@ -1,0 +1,38 @@
+.bg-nav{
+        background: #6C63FF;
+        padding: 20px 20px 20px 20px;
+      }
+      body {
+        font-family: Quicksand;
+      }
+      header{
+        /*background: linear-gradient(520deg, #4a62ff 40%, #9335ff 100%);*/
+        background: white;
+      }
+      #portofolio{
+        background: #f8f9fa;
+        padding-top: 50px;
+        padding-bottom: 100px;
+      }
+      .b{
+        border-radius: 30px;
+      }
+      #about-me {
+        background: #6C63FF;
+        color: white;
+        padding-bottom: 60px;
+        padding-top: 20px;
+      }
+      #kontak{
+        padding-top: 100px;
+        padding-bottom: 100px;
+      }
+
+      @media (max-width: 576px) { 
+          .ilang {
+            display: none;
+          }
+          .tengah{
+            text-align: center;
+          }
+      }
